@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+            text	{findWhat:""}	{changeTo:"bla"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}	Find standards and replaces with the proper thingy.
+                    
