@@ -1,1 +1,0 @@
-﻿var myDoc = app.activeDocument;var myTextFrames = myDoc.textFrames.everyItem().getElements();for(x = 0; x < myTextFrames.length; x++){if(myTextFrames[x].insertionPoints[0].appliedParagraphStyle.name == 'Lesson_A-hd'){    alert(myTextFrames[x].parentPage.name)    }}
